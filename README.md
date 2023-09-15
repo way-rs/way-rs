@@ -9,7 +9,7 @@
 </div>
 </div>
 
-### Hello I am a developer named Lake who is just now learning to code.
+### I am a developer named Lake and I use arch btw.
 
 ---
 
