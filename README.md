@@ -11,7 +11,7 @@
 Hello I am a developer named Lake who is just now learning to code.
 ---
 
-### :hammer_and_wrench: Languages I use:
+## :hammer_and_wrench: Languages I use:
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="55" height="55"/>
