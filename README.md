@@ -13,6 +13,12 @@
 
 ### I am a developer named Lake and I use arch btw.
 
+- :seedling: Very familiar with rust but I am learning C.
+
+- :penguin: I use Linux (Arch by the way).
+
+- :octocat: Im a security freak.
+
 ---
 
 ## :hammer_and_wrench: Languages I use:
