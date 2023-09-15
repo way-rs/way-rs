@@ -5,6 +5,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" height="400"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" height="350"/>
 </div>
 </div>
