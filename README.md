@@ -24,3 +24,9 @@ Hello I am a developer named Lake who is just now learning to code.
 <a href="https://www.python.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="55" height="55"/>
 </a>
+
+## :hammer_and_wrench: Platforms I use:
+
+<a href="https://www.linux.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="55" height="55"/>
+</a>
