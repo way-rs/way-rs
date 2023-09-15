@@ -1,3 +1,3 @@
-<div align="center" font-size="150">
+<div align="center" size="150">
 Hello World! :technologist:
 </div>
