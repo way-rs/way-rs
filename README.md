@@ -17,4 +17,10 @@ Hello I am a developer named Lake who is just now learning to code.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="55" height="55"/>
 </a>
 
+<a href="https://www.rust-lang.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="55" height="55"/>
+</a>
 
+<a href="https://www.python.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="55" height="55"/>
+</a>
