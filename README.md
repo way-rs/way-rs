@@ -39,3 +39,7 @@
 <a href="https://www.linux.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="55" height="55"/>
 </a>
+
+<a href="https://www.netbsd.org/">
+  <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/netbsd-512.png" width="55" height="55"/>
+</a>
