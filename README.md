@@ -13,7 +13,7 @@
 
 ### I am a developer named Lake.
 
-- :seedling: Very familiar with rust but I am learning C.
+- :seedling: Learning rust and C. And I know a little bit of Javascript.
 
 - :penguin: I use Linux (Artix by the way (On a macbook by the way)).
 
