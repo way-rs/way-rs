@@ -17,7 +17,7 @@
 
 - :penguin: I use Linux (Artix by the way (On a macbook by the way)).
 
-- :computer: I have a macbook running NetBSD as a server.
+- :computer: Works with Linux and BSD (Mainly NetBSD)
 ---
 
 ## :hammer_and_wrench: Languages I use:
