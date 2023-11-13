@@ -15,10 +15,9 @@
 
 - :seedling: Very familiar with rust but I am learning C.
 
-- :penguin: I use Linux (Arch by the way).
+- :penguin: I use Linux (Artix by the way (On a macbook by the way)).
 
-- :octocat: Im a security freak.
-
+- :computer: I have a macbook running NetBSD as a server.
 ---
 
 ## :hammer_and_wrench: Languages I use:
