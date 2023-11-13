@@ -11,7 +11,7 @@
 
 ---
 
-### I am a developer named Lake and I use arch btw.
+### I am a developer named Lake.
 
 - :seedling: Very familiar with rust but I am learning C.
 
