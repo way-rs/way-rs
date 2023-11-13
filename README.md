@@ -30,8 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="55" height="55"/>
 </a>
 
-<a href="https://www.python.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="55" height="55"/>
+<a href="https://www.javascript.com/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="55" height="55"/>
 </a>
 
 ## :hammer_and_wrench: Platforms I use:
