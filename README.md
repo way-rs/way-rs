@@ -13,7 +13,7 @@
 
 ### I am a developer named Wayland.
 
-- :penguin: I use MacOS.
+- :apple: I use MacOS.
 
 - :computer: I work with Linux and BSD (Mainly OpenBSD)
 ---
