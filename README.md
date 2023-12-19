@@ -11,13 +11,11 @@
 
 ---
 
-### I am a developer named Lake.
+### I am a developer named Wayland.
 
-- :seedling: Learning rust and C. And I know a little bit of Javascript.
+- :penguin: I use MacOS.
 
-- :penguin: I use Linux (Artix by the way (On a macbook by the way)).
-
-- :computer: Works with Linux and BSD (Mainly NetBSD)
+- :computer: I work with Linux and BSD (Mainly OpenBSD)
 ---
 
 ## :hammer_and_wrench: Languages I use:
@@ -28,10 +26,6 @@
 
 <a href="https://www.rust-lang.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="55" height="55"/>
-</a>
-
-<a href="https://www.javascript.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="55" height="55"/>
 </a>
 
 ## :hammer_and_wrench: Platforms I use:
